@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					9646DE141F15B9B000A7CEC2 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = N7832XF2JS;
 						ProvisioningStyle = Automatic;
 					};
 					9646DE2D1F15B9B000A7CEC2 = {
@@ -424,7 +425,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N7832XF2JS;
 				INFOPLIST_FILE = "国壳漫步/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "liujingyi.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -435,7 +438,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N7832XF2JS;
 				INFOPLIST_FILE = "国壳漫步/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "liujingyi.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -507,6 +512,7 @@
 				9646DE441F15B9B000A7CEC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9646DE451F15B9B000A7CEC2 /* Build configuration list for PBXNativeTarget "国壳漫步Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +521,7 @@
 				9646DE471F15B9B000A7CEC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9646DE481F15B9B000A7CEC2 /* Build configuration list for PBXNativeTarget "国壳漫步UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +530,7 @@
 				9646DE4A1F15B9B000A7CEC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
